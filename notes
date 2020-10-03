@@ -1,0 +1,11 @@
+JS -> scripting language -> no need to compile
+
+runs in client side browser or in server side nodejs
+
+How javascript works -> JS parse the file from top to bottom
+
+Its not type safe lang, any value type can be assigned to the var, let or const, 
+  function can return anything, func can accept anything in arguments
+
+
+javascript is and functional programming language means a function can be passed as an arguments and a function can return any other function
