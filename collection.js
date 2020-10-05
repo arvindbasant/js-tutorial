@@ -56,3 +56,6 @@ console.log(greaterThan2);
 
 console.log(arr.includes(100));
 console.log(arr.indexOf(100));
+
+
+// book examples
