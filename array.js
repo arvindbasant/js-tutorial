@@ -23,3 +23,7 @@ arr.pop(); // returns "e"; arr is now ["b", "c", "d"]
 arr.unshift("a"); // returns 4; arr is now ["a", "b", "c", "d"]
 arr.shift(); // returns "a"; arr is now ["b", "c", "d"]
 
+const cart = [ { name: "Widget", price: 9.95 }, { name: "Gadget", price: 22.95 }];
+const names = cart.map(x => x.name); 
+const lnames = names.map(String.toLowerCase); 
+console.log(lnames)
